@@ -101,7 +101,7 @@ public class Hello {
 		}
 
 		return "Bonjour, tout le monde!";
-	}
+	} 
 
 	@Path("/savePlace")
 	@GET
